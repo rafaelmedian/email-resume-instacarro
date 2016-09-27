@@ -1432,6 +1432,10 @@ p {
   letter-spacing: 0.92px;
   line-height: 20px; }
 
+.checked {
+  color: #8e8e8e;
+  text-decoration: line-through; }
+
 .spacer {
   border-bottom: 1px solid #dedede; }
 
